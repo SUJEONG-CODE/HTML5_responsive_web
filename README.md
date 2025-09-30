@@ -14,4 +14,4 @@ PC, 태블릿, 모바일 환경에서 모두 최적화되도록 설계되었으�
 
 ## 사용 방법
 1. 저장소를 클론하거나 다운로드합니다.
-   git clone https://github.com/사용자명/HTML5_responsive_web-master.git
+   git clone https://github.com/SUJEONG-CODE/HTML5_responsive_web.git
